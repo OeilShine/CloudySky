@@ -1,0 +1,19 @@
+<!--pages/me/me.wxml-->
+<navigator url="/pages/me-csjl/me-csjl?title=me-csjl" >
+<view class="me-zl">
+<view class="me-img">
+<image src="/images/all-image/me1.png" class="me-img-image"/>
+</view>
+<text>登录  注册 </text>
+</view>
+</navigator>
+
+<view class="me-list">
+<navigator url="/pages/me-jf/me-jf?title=me-jf" >
+  <button class="me-list-one">我的慈善记录</button>
+</navigator>
+<navigator url="/pages/me-jf/me-jf?title=me-jf" >
+  <button class="me-list-one">我的积分</button>
+</navigator>
+</view>
+

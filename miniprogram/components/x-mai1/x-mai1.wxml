@@ -1,0 +1,10 @@
+<!--compenerts/x-mai1/x-mai1.wxml-->
+<view class="mai1-dabody">
+<view class="mai1-xiaoimg">
+</view>
+<view class="mai1-jshao">
+<text class="mai1-jshao-name">{{mai1res.spm}}\n</text>
+<text class="mai1-jshao-mjjs">{{mai1res.js}}\n</text>
+<text class="mai1-jshao-jg">{{mai1res.jg}}</text>
+</view>
+</view>

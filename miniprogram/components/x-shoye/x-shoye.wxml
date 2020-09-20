@@ -1,0 +1,24 @@
+<!--compenerts/x-shoye/x-shoye.wxml-->
+<view class="x-shoye-jing" bindsubmit="_handlerSubmitshoye">
+<view class="jx-title">
+</view>
+<view class="jx-body">
+<view class="jx-body-nr">
+<text class="shangpingming">商品名:{{account}}\n</text>
+<text class="jiage">价格{{pwd}}</text>
+</view>
+<view class="jx-body-nr">
+<text class="shangpingming">商品名:asasa\n</text>
+<text class="jiage">价格1000</text>
+</view>
+<view class="jx-body-nr">
+<text class="shangpingming">商品名:asasa\n</text>
+<text class="jiage">价格1000</text>
+</view>
+<view class="jx-body-nr">
+<text class="shangpingming">商品名:asasa\n</text>
+<text class="jiage">价格1000</text>
+</view>
+</view>
+
+</view>

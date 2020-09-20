@@ -1,0 +1,29 @@
+<!--pages/mai2/mai2.wxml-->
+<view class="mai1-telet">
+<navigator url="/pages/me-jf/me-jf?title=me-jf" >
+  <view class="mai1-telet-one" wx:for="{{mailarr}}" wx:for-item="mailarr">{{mailarr}}</view>
+</navigator>
+</view>
+
+
+<view class="inpu">
+<input type="text" placeholder='输入你想要的内容' class="inn"></input>
+<image src="/images/all-image/ssk.png"></image>
+</view>
+
+
+
+<view>
+<block  wx:for="{{mai1res}}" wx:key="index">
+<view class="goods">
+    <view class="goods-item">
+      <image src="{{item.img}}" />
+     <view class="info">
+       <view>收购企业：{{item.sgqy}}</view>
+       <view>收购商品：{{item.sgsp}}</view>
+       <view>收购价格：￥{{item.jg}}</view>
+     </view>
+    </view>
+</view>
+</block>
+</view>

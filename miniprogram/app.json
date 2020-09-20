@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/shoye/shoye",
+    "pages/mai1/mai1",
+    "pages/mai2/mai2",
+    "pages/me/me",
+    "pages/me-csjl/me-csjl",
+    "pages/me-jf/me-jf"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#f8ee5b",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#bfbfbf",
+    "selectedColor": "#f6ef37",
+    "list": [
+      {
+        "pagePath": "pages/shoye/shoye",
+        "text": "首页",
+        "iconPath": "/images/all-image/shoye1.png",
+        "selectedIconPath": "/images/all-image/shoye2.png"
+      },
+      {
+        "pagePath": "pages/mai1/mai1",
+        "text": "买",
+        "iconPath": "/images/all-image/buy1.png",
+        "selectedIconPath": "/images/all-image/buy2.png"
+      },
+      {
+        "pagePath": "pages/mai2/mai2",
+        "text": "卖",
+        "iconPath": "/images/all-image/sale1.png",
+        "selectedIconPath": "/images/all-image/sale2.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "/images/all-image/me1.png",
+        "selectedIconPath": "/images/all-image/me2.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

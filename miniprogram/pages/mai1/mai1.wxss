@@ -1,0 +1,57 @@
+.mai1-telet{
+  width:100%;
+  height:40px;
+}
+.mai1-telet-one{
+  width:30%;
+  height:25px;
+  float: left;
+  background-color: #f8ee5b;
+  margin: 5px;
+  text-align: center;
+}
+
+.inpu {
+  width: 95%;
+  height: 30px;
+  margin: 5px;
+  border: 2px solid #f8ee5b;
+  border-radius: 10px;
+}
+
+.inn {
+  width: 85%;
+  height: 100%;
+  float: left;
+}
+
+.inpu image {
+  width: 20px;
+  height: 20px;
+  float: left;
+  margin: 5px;
+}
+
+
+.goods {
+  margin-top: 10rpx;
+  width: 100%;
+  height: 250rpx;
+  background: #F8EE5B;
+  font-size: 14px;
+}
+
+.goods-item image{
+  float: left;
+  margin-right: 10rpx;
+  width: 360rpx;
+  height: 250rpx;
+  background: #DC143C;
+  border-radius: 40rpx;
+}
+
+.goods .goods-item .info {
+  text-align: left;
+  width: 100%;
+  height: 250rpx;
+}

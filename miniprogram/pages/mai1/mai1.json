@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "x-mai1":"/components/x-mai1/x-mai1"
+  },
+  "navigationBarTitleText":"买"
+}

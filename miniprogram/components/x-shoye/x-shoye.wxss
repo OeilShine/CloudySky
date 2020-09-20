@@ -1,0 +1,33 @@
+/* compenerts/x-shoye/x-shoye.wxss */
+.x-shoye-jing{
+  width:100%;
+  height:250px;
+  background-color:red;
+}
+.jx-title{
+  width:50%;
+  height:50px;
+  background-color:chartreuse;
+  margin: auto;
+}
+.jx-body{
+  width:100%;
+  height:200px;
+  background-color:#f8ee5b
+}
+.jx-body-nr{
+  width:47%;
+  height:45%;
+  border-radius:10px;
+  float: left;
+  background-color:chartreuse;
+  margin: 4px;
+}
+.shangpingming {
+  color: black;
+  font-size: 10px;
+}
+.jiage{
+  color: red;
+  font-size: 10px;
+}

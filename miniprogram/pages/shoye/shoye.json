@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "x-shoye":"/components/x-shoye/x-shoye"
+   
+  },
+  "navigationBarTitleText":"首页"
+}

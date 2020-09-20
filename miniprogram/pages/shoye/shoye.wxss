@@ -1,0 +1,21 @@
+/* pages/shoye/shoye.wxss */
+.sy-lbt{
+  width:90%;
+  height:125px;
+  background-color: chartreuse;
+  margin: auto;
+  border-radius:30px;
+  margin-top:10px;
+}
+.sy-hwtj-block{
+  width:50px;
+  height:50px;
+  background-color: #f8ee5b;
+  float: left;
+  margin: 15px;
+  border-radius:30px;
+  text-align: center;
+  font-size: 30px;
+}
+
+

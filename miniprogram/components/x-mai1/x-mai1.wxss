@@ -1,0 +1,16 @@
+/* compenerts/x-mai1/x-mai1.wxss */
+.mai1-dabody{
+  width:100%;
+  height:100px;
+  background-color: cadetblue;
+}
+.mai1-xiaoimg{
+  width:45%;
+  height:100%;
+  background-color: crimson;
+  border-radius:20px;
+  float: left;
+}
+.mai1-jshao{
+  float: left;
+}
